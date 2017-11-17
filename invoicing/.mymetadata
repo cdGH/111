@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="invoicing"
+  id="myeclipse.1510801279128"
+  context-root="/invoicing"
+  j2ee-spec="1.7"
+  archive="invoicing.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
